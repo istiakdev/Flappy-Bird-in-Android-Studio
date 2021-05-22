@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="E:\ABIR\Project\Project\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_ba64a53ad197ba280bb2584cb5b438666e17d8fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="E:\ABIR\Project\Project\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_991d2c6ee0859bc26611a94884f32a5caa52dfe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ABIR\Project\Project\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b93929300b77506085b8ecdf8fbb3fab33f2f77e">
+        <dex dex="E:\ABIR\Project\Project\android\build\intermediates\pre-dexed\debug\core-1.0_fa55194fd8e770c29c26015ba23c4987c21f7e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="E:\ABIR\Project\Project\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_7ef6710962f17d0ba8cce570755ff3e770b745e4.jar" />
+    </item>
+
+</items>
